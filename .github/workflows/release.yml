@@ -18,7 +18,7 @@ jobs:
         with:
           bun-version: latest
 
-      - run: bun merge.js
+      - run: bun merge.ts
 
       - name: Get Version
         id: version
