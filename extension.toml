@@ -1,0 +1,7 @@
+id = cisco-theme"
+name = "Cisco Theme"
+version = "1.0.0"
+schema_version = 1
+authors = ["Thom Morais <thommorais+cisco@gmail.com>"]
+description = "A very simple theme for Zed."
+repository = "https://github.com/thommorais/zed-cisco-theme"
